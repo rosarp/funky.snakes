@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkfunky_snakes=self.webpackChunkfunky_snakes||[]).push([[237],{3482:function(e,n,a){a.r(n);var u=a(7294),s=a(2578);n.default=function(){return u.createElement(s.Z,{pageTitle:"Gallery Page"})}}}]);
-//# sourceMappingURL=component---src-pages-gallery-jsx-2b5a9dc1c6a7d16c72f4.js.map
