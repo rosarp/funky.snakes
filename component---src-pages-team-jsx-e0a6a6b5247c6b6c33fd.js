@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfunky_snakes=self.webpackChunkfunky_snakes||[]).push([[416],{1804:function(e,n,a){a.r(n);var s=a(7294),u=a(2578);n.default=function(){return s.createElement(u.Z,{pageTitle:"Teams Page"})}}}]);
+//# sourceMappingURL=component---src-pages-team-jsx-e0a6a6b5247c6b6c33fd.js.map

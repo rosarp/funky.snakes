@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfunky_snakes=self.webpackChunkfunky_snakes||[]).push([[642],{708:function(e,n,a){a.r(n);var u=a(7294),s=a(2578);n.default=function(){return u.createElement(s.Z,{pageTitle:"Roadmap Page"})}}}]);
+//# sourceMappingURL=component---src-pages-roadmap-jsx-688d1f33493c85d34c48.js.map
