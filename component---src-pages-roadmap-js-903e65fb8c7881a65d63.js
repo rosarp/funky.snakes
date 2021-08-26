@@ -1,1 +1,0 @@
-(self.webpackChunkfunky_snakes=self.webpackChunkfunky_snakes||[]).push([[917],{3667:function(){}}]);
